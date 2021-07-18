@@ -1,0 +1,334 @@
+2021-07-08 11:21:07,437  INFO [main] LoginPage:38 - Sign in to start your session
+2021-07-08 11:21:07,442  INFO [main] LoginPage:42 - Text is match
+2021-07-08 11:21:10,508  INFO [main] LoginPage:102 - heading is verified.
+2021-07-08 11:21:13,419  INFO [main] LoginPage:113 - heading1 is verified.
+2021-07-08 11:21:17,040  INFO [main] LoginPage:57 - Login verified.open dashboard page.
+2021-07-08 11:21:20,579  INFO [main] LoginPage:91 - image is displayed.
+2021-07-08 11:21:23,793  INFO [main] LoginPage:81 - Registration page is open.
+2021-07-08 11:21:27,075  INFO [main] LoginPage:69 - link text is verified
+2021-07-08 11:21:30,107  INFO [main] LoginPage:26 - ApplicationLoginTitle is match.
+2021-07-08 15:47:51,936  INFO [main] UsersPage:149 - correct mobile number is :9898989898
+2021-07-08 15:47:51,954  INFO [main] UsersPage:152 - Incorrect mobile number is :999999999
+2021-07-08 15:47:51,970  INFO [main] UsersPage:149 - correct mobile number is :1111111111
+2021-07-08 15:47:51,979  INFO [main] UsersPage:152 - Incorrect mobile number is :999999999
+2021-07-08 15:47:52,026  INFO [main] UsersPage:133 - kiran@gmail.com
+2021-07-08 15:47:52,386  INFO [main] UsersPage:56 - ---->>>{0=[Kiran, Male], 1=[Sagar, Male], 2=[Monica, Female], 3=[Kimaya, Female]}
+2021-07-08 15:47:52,903  INFO [main] UsersPage:66 - data is matched.
+2021-07-08 15:47:53,606  INFO [main] UsersPage:106 - {1=[Kiran, kiran@gmail.com, 9898989898, Java/J2EE, Male, Maharashtra, Delete], 2=[Sagar, sagar@gmail.com, 999999999, Selenium, Male, Punjab, Delete], #=[Username, Email, Mobile, Course, Gender, State, Action], 3=[Monica, monica@gmail.com, 1111111111, Python, Female, Maharashtra, Delete], 4=[Kimaya, kimaya@gmail.com, 999999999, PHP, Female, Punjab, Delete]}
+2021-07-08 15:47:55,210  INFO [main] UsersPage:117 - {1=[Kiran, kiran@gmail.com, 9898989898, Java/J2EE, Male, Maharashtra, Delete], 2=[Sagar, sagar@gmail.com, 999999999, Selenium, Male, Punjab, Delete], #=[Username, Email, Mobile, Course, Gender, State, Action], 3=[Monica, monica@gmail.com, 1111111111, Python, Female, Maharashtra, Delete], 4=[Kimaya, kimaya@gmail.com, 999999999, PHP, Female, Punjab, Delete]}
+2021-07-08 15:47:55,227  INFO [main] UsersPage:120 - Both tables are matched with eaach other.
+2021-07-08 15:47:55,227  INFO [main] UsersPage:31 - UsersPageTitle is verified.
+2021-07-08 15:49:28,542  INFO [main] UsefulLinksPage:57 - I am in Main Window.
+2021-07-08 15:49:28,569  INFO [main] UsefulLinksPage:35 - Title is not matched.
+2021-07-08 15:49:29,065  INFO [main] UsefulLinksPage:88 - {01=[Schedule, Go !], 02=[Video Lactures All Topics, Go !], 03=[Selenium Interview Questions, Go !], 04=[Java Interview Questions, Go !], 05=[Courses, Go !], Sr=[Content, Click]}
+2021-07-08 15:51:28,919  INFO [main] UsefulLinksPage:35 - Title is not matched.
+2021-07-08 15:53:19,372  INFO [main] UsefulLinksPage:30 - JavaByKiran | Useful Links
+2021-07-08 15:53:19,377  INFO [main] UsefulLinksPage:36 - Title is not matched.
+2021-07-08 15:56:29,536  INFO [main] UsefulLinksPage:31 - JavaByKiran | Useful Links
+2021-07-08 15:56:29,542  INFO [main] UsefulLinksPage:34 - Title is matched.
+2021-07-08 16:02:20,348  INFO [main] UsefulLinksPage:60 - I am in Main Window.
+2021-07-08 16:45:02,374  INFO [main] UsefulLinksPage:100 - {Sr=[Content, Click]}
+2021-07-08 16:45:02,542  INFO [main] UsefulLinksPage:100 - {1=[Schedule, Go !], Sr=[Content, Click]}
+2021-07-08 16:45:02,654  INFO [main] UsefulLinksPage:100 - {1=[Schedule, Go !], 2=[Video Lactures All Topics, Go !], Sr=[Content, Click]}
+2021-07-08 16:45:02,778  INFO [main] UsefulLinksPage:100 - {1=[Schedule, Go !], 2=[Video Lactures All Topics, Go !], 3=[Selenium Interview Questions, Go !], Sr=[Content, Click]}
+2021-07-08 16:45:02,903  INFO [main] UsefulLinksPage:100 - {1=[Schedule, Go !], 2=[Video Lactures All Topics, Go !], 3=[Selenium Interview Questions, Go !], 4=[Java Interview Questions, Go !], Sr=[Content, Click]}
+2021-07-08 16:45:03,028  INFO [main] UsefulLinksPage:100 - {1=[Schedule, Go !], 2=[Video Lactures All Topics, Go !], 3=[Selenium Interview Questions, Go !], 4=[Java Interview Questions, Go !], 5=[Courses, Go !], Sr=[Content, Click]}
+2021-07-08 16:45:03,153  INFO [main] UsefulLinksPage:100 - {1=[Schedule, Go !], 2=[Video Lactures All Topics, Go !], 3=[Selenium Interview Questions, Go !], 4=[Java Interview Questions, Go !], 5=[Courses, Go !], 6=[Placement, Go !], Sr=[Content, Click]}
+2021-07-08 16:46:24,917  INFO [main] UsefulLinksPage:101 - {1=[Schedule, Go !], 2=[Video Lactures All Topics, Go !], 3=[Selenium Interview Questions, Go !], 4=[Java Interview Questions, Go !], 5=[Courses, Go !], 6=[Placement, Go !], Sr=[Content, Click]}
+2021-07-08 17:12:01,524  INFO [main] AddUserPage:27 - AddUserTitle is verified.
+2021-07-08 17:30:20,970  INFO [main] AddUserPage:69 - User Added Successfully.
+2021-07-09 13:36:54,547  INFO [main] LoginPage:38 - Sign in to start your session
+2021-07-09 13:36:54,674  INFO [main] LoginPage:42 - Text is match
+2021-07-09 13:37:00,847  INFO [main] LoginPage:102 - heading is verified.
+2021-07-09 13:37:06,043  INFO [main] LoginPage:113 - heading1 is verified.
+2021-07-09 13:37:14,529  INFO [main] LoginPage:57 - Login verified.open dashboard page.
+2021-07-09 13:37:18,974  INFO [main] LoginPage:91 - image is displayed.
+2021-07-09 13:37:24,717  INFO [main] LoginPage:81 - Registration page is open.
+2021-07-09 13:37:30,292  INFO [main] LoginPage:69 - link text is verified
+2021-07-09 13:37:35,273  INFO [main] LoginPage:26 - ApplicationLoginTitle is match.
+2021-07-09 13:58:39,903  INFO [main] LoginPage:113 - heading1 is verified.
+2021-07-09 14:36:57,923  INFO [main] LoginPage:38 - Sign in to start your session
+2021-07-09 14:36:57,938  INFO [main] LoginPage:42 - Text is match
+2021-07-09 14:37:01,959  INFO [main] LoginPage:102 - heading is verified.
+2021-07-09 14:37:05,867  INFO [main] LoginPage:113 - heading1 is verified.
+2021-07-09 14:37:11,721  INFO [main] LoginPage:57 - Login verified.open dashboard page.
+2021-07-09 14:37:15,960  INFO [main] LoginPage:91 - image is displayed.
+2021-07-09 14:37:20,556  INFO [main] LoginPage:81 - Registration page is open.
+2021-07-09 14:37:24,349  INFO [main] LoginPage:69 - link text is verified
+2021-07-09 14:37:28,803  INFO [main] LoginPage:26 - ApplicationLoginTitle is match.
+2021-07-09 14:38:12,766  INFO [main] DashboardPage:79 - aqua
+2021-07-09 14:38:12,792  INFO [main] DashboardPage:79 - green
+2021-07-09 14:38:12,806  INFO [main] DashboardPage:79 - yellow
+2021-07-09 14:38:12,826  INFO [main] DashboardPage:79 - red
+2021-07-09 14:38:18,270  INFO [main] DashboardPage:88 - bag
+2021-07-09 14:38:18,279  INFO [main] DashboardPage:88 - bars
+2021-07-09 14:38:18,295  INFO [main] DashboardPage:88 - add
+2021-07-09 14:38:18,319  INFO [main] DashboardPage:88 - graph
+2021-07-09 14:38:24,469  INFO [main] DashboardPage:31 - DashboardPage Title is verified
+2021-07-09 14:38:30,328  INFO [main] DashboardPage:62 - [Selenium]
+2021-07-09 14:38:30,373  INFO [main] DashboardPage:62 - [Selenium, Java / J2EE]
+2021-07-09 14:38:30,405  INFO [main] DashboardPage:62 - [Selenium, Java / J2EE, Python]
+2021-07-09 14:38:30,436  INFO [main] DashboardPage:62 - [Selenium, Java / J2EE, Python, Php]
+2021-07-09 14:38:30,452  INFO [main] DashboardPage:66 - Courses are verified.
+2021-07-09 14:38:35,928  INFO [main] DashboardPage:40 - Dashboard Courses Offered
+2021-07-09 14:38:35,942  INFO [main] DashboardPage:43 - Text is matched.
+2021-07-09 14:39:51,938  INFO [main] DashboardPage:79 - aqua
+2021-07-09 14:39:51,969  INFO [main] DashboardPage:79 - green
+2021-07-09 14:39:51,984  INFO [main] DashboardPage:79 - yellow
+2021-07-09 14:39:52,000  INFO [main] DashboardPage:79 - red
+2021-07-09 14:39:59,938  INFO [main] DashboardPage:88 - bag
+2021-07-09 14:39:59,978  INFO [main] DashboardPage:88 - bars
+2021-07-09 14:40:00,010  INFO [main] DashboardPage:88 - add
+2021-07-09 14:40:00,041  INFO [main] DashboardPage:88 - graph
+2021-07-09 14:40:06,524  INFO [main] DashboardPage:31 - DashboardPage Title is verified
+2021-07-09 14:40:12,442  INFO [main] DashboardPage:63 - [Selenium, Java / J2EE, Python, Php]
+2021-07-09 14:40:12,458  INFO [main] DashboardPage:66 - Courses are verified.
+2021-07-09 14:40:18,192  INFO [main] DashboardPage:40 - Dashboard Courses Offered
+2021-07-09 14:40:18,200  INFO [main] DashboardPage:43 - Text is matched.
+2021-07-09 14:40:56,099  INFO [main] UsersPage:149 - correct mobile number is :9898989898
+2021-07-09 14:40:56,113  INFO [main] UsersPage:152 - Incorrect mobile number is :999999999
+2021-07-09 14:40:56,129  INFO [main] UsersPage:149 - correct mobile number is :1111111111
+2021-07-09 14:40:56,153  INFO [main] UsersPage:152 - Incorrect mobile number is :999999999
+2021-07-09 14:40:56,209  INFO [main] UsersPage:133 - kiran@gmail.com
+2021-07-09 14:40:56,511  INFO [main] UsersPage:56 - ---->>>{0=[Kiran, Male], 1=[Sagar, Male], 2=[Monica, Female], 3=[Kimaya, Female]}
+2021-07-09 14:40:57,247  INFO [main] UsersPage:66 - data is matched.
+2021-07-09 14:40:58,228  INFO [main] UsersPage:106 - {1=[Kiran, kiran@gmail.com, 9898989898, Java/J2EE, Male, Maharashtra, Delete], 2=[Sagar, sagar@gmail.com, 999999999, Selenium, Male, Punjab, Delete], #=[Username, Email, Mobile, Course, Gender, State, Action], 3=[Monica, monica@gmail.com, 1111111111, Python, Female, Maharashtra, Delete], 4=[Kimaya, kimaya@gmail.com, 999999999, PHP, Female, Punjab, Delete]}
+2021-07-09 14:40:59,936  INFO [main] UsersPage:117 - {1=[Kiran, kiran@gmail.com, 9898989898, Java/J2EE, Male, Maharashtra, Delete], 2=[Sagar, sagar@gmail.com, 999999999, Selenium, Male, Punjab, Delete], #=[Username, Email, Mobile, Course, Gender, State, Action], 3=[Monica, monica@gmail.com, 1111111111, Python, Female, Maharashtra, Delete], 4=[Kimaya, kimaya@gmail.com, 999999999, PHP, Female, Punjab, Delete]}
+2021-07-09 14:40:59,942  INFO [main] UsersPage:120 - Both tables are matched with eaach other.
+2021-07-09 14:40:59,950  INFO [main] UsersPage:31 - UsersPageTitle is verified.
+2021-07-09 14:43:44,386  INFO [main] OperatorsPage:66 - person Kiran Available for Urgent Technical Help
+2021-07-09 14:43:44,417  INFO [main] OperatorsPage:66 - person Neelam Available for Technical Discussion (Errors, Software, Technical Materials)
+2021-07-09 14:43:44,519  INFO [main] OperatorsPage:66 - person Darshit Available for Technical Help
+2021-07-09 14:43:45,128  INFO [main] OperatorsPage:150 - Table header is verified.
+2021-07-09 14:43:45,191  INFO [main] OperatorsPage:50 - Sorted elements: [Darshit, Kiran, Neelam, Seema, Varsha]
+2021-07-09 14:43:46,175  INFO [main] OperatorsPage:198 - Person with Enquiry Role is verified.
+2021-07-09 14:43:47,036  INFO [main] OperatorsPage:245 - The Actual HashMap With Name,Contact,Time for available
+{Neelam=[7066885937, 09:00 AM to 06:00 PM Monday-Saturday], Kiran=[9552343698, 07:00 AM to 10:00 PM Monday-Sunday], Seema=[8888558802, 09:00 AM to 06:00 PM Monday-Saturday], Varsha=[8888809416, 09:00 AM to 06:00 PM Monday to Friday and Sunday], Darshit=[8866888662, 08:30 AM to 02:00 PM Saturday-Sunday]}
+2021-07-09 14:43:47,692  INFO [main] OperatorsPage:256 - The Expected HashMap With Name,Contact,Time for available
+{Neelam=[7066885937, 09:00 AM to 06:00 PM Monday-Saturday], Kiran=[9552343698, 07:00 AM to 10:00 PM Monday-Sunday], Seema=[8888558802, 09:00 AM to 06:00 PM Monday-Saturday], Varsha=[8888809416, 09:00 AM to 06:00 PM Monday to Friday and Sunday], Darshit=[8866888662, 08:30 AM to 02:00 PM Saturday-Sunday]}
+2021-07-09 14:43:47,692  INFO [main] OperatorsPage:261 - Data is not verified.
+2021-07-09 14:43:47,696  INFO [main] OperatorsPage:33 - operatorsPageTitle is verified.
+2021-07-09 14:43:48,562  INFO [main] OperatorsPage:127 - verified persons  uses whats App only
+2021-07-09 14:43:49,000  INFO [main] OperatorsPage:171 - OperatorTableId is verified.
+2021-07-09 14:48:07,974  INFO [main] UsefulLinksPage:59 - I am in Main Window.
+2021-07-09 14:48:08,010  INFO [main] UsefulLinksPage:34 - Title is matched.
+2021-07-09 14:48:08,528  INFO [main] UsefulLinksPage:91 - {01=[Schedule, Go !], 02=[Video Lactures All Topics, Go !], 03=[Selenium Interview Questions, Go !], 04=[Java Interview Questions, Go !], 05=[Courses, Go !], Sr=[Content, Click]}
+2021-07-09 14:48:09,529  INFO [main] UsefulLinksPage:101 - {1=[Schedule, Go !], 2=[Video Lactures All Topics, Go !], 3=[Selenium Interview Questions, Go !], 4=[Java Interview Questions, Go !], 5=[Courses, Go !], 6=[Placement, Go !], Sr=[Content, Click]}
+2021-07-09 14:50:00,595  INFO [main] DashboardPage:79 - aqua
+2021-07-09 14:50:00,621  INFO [main] DashboardPage:79 - green
+2021-07-09 14:50:00,637  INFO [main] DashboardPage:79 - yellow
+2021-07-09 14:50:00,652  INFO [main] DashboardPage:79 - red
+2021-07-09 14:50:06,469  INFO [main] DashboardPage:88 - bag
+2021-07-09 14:50:06,505  INFO [main] DashboardPage:88 - bars
+2021-07-09 14:50:06,520  INFO [main] DashboardPage:88 - add
+2021-07-09 14:50:06,536  INFO [main] DashboardPage:88 - graph
+2021-07-09 14:50:12,200  INFO [main] DashboardPage:31 - DashboardPage Title is verified
+2021-07-09 14:50:18,051  INFO [main] DashboardPage:63 - [Selenium, Java / J2EE, Python, Php]
+2021-07-09 14:50:18,066  INFO [main] DashboardPage:66 - Courses are verified.
+2021-07-09 14:50:25,471  INFO [main] DashboardPage:40 - Dashboard Courses Offered
+2021-07-09 14:50:25,479  INFO [main] DashboardPage:43 - Text is matched.
+2021-07-10 18:19:04,344  INFO [main] DashboardPage:88 - bag
+2021-07-10 18:19:04,376  INFO [main] DashboardPage:88 - bars
+2021-07-10 18:19:04,391  INFO [main] DashboardPage:88 - add
+2021-07-10 18:19:04,407  INFO [main] DashboardPage:88 - graph
+2021-07-10 18:19:36,509  INFO [main] UsersPage:149 - correct mobile number is :9898989898
+2021-07-10 18:19:36,549  INFO [main] UsersPage:152 - Incorrect mobile number is :999999999
+2021-07-10 18:19:36,580  INFO [main] UsersPage:149 - correct mobile number is :1111111111
+2021-07-10 18:19:36,611  INFO [main] UsersPage:152 - Incorrect mobile number is :999999999
+2021-07-10 18:19:36,694  INFO [main] UsersPage:133 - kiran@gmail.com
+2021-07-10 18:19:37,241  INFO [main] UsersPage:56 - ---->>>{0=[Kiran, Male], 1=[Sagar, Male], 2=[Monica, Female], 3=[Kimaya, Female]}
+2021-07-10 18:19:37,813  INFO [main] UsersPage:66 - data is matched.
+2021-07-10 18:19:38,559  INFO [main] UsersPage:106 - {1=[Kiran, kiran@gmail.com, 9898989898, Java/J2EE, Male, Maharashtra, Delete], 2=[Sagar, sagar@gmail.com, 999999999, Selenium, Male, Punjab, Delete], #=[Username, Email, Mobile, Course, Gender, State, Action], 3=[Monica, monica@gmail.com, 1111111111, Python, Female, Maharashtra, Delete], 4=[Kimaya, kimaya@gmail.com, 999999999, PHP, Female, Punjab, Delete]}
+2021-07-10 18:19:40,643  INFO [main] UsersPage:117 - {1=[Kiran, kiran@gmail.com, 9898989898, Java/J2EE, Male, Maharashtra, Delete], 2=[Sagar, sagar@gmail.com, 999999999, Selenium, Male, Punjab, Delete], #=[Username, Email, Mobile, Course, Gender, State, Action], 3=[Monica, monica@gmail.com, 1111111111, Python, Female, Maharashtra, Delete], 4=[Kimaya, kimaya@gmail.com, 999999999, PHP, Female, Punjab, Delete]}
+2021-07-10 18:19:40,643  INFO [main] UsersPage:120 - Both tables are matched with eaach other.
+2021-07-10 18:19:40,706  INFO [main] UsersPage:31 - UsersPageTitle is verified.
+2021-07-10 18:19:52,691  INFO [main] AddUserPage:69 - User Added Successfully.
+2021-07-10 18:19:52,856  INFO [main] AddUserPage:26 - AddUserTitle is verified.
+2021-07-10 18:20:01,310  INFO [main] UsefulLinksPage:59 - I am in Main Window.
+2021-07-10 18:20:01,323  INFO [main] UsefulLinksPage:34 - Title is matched.
+2021-07-10 18:20:01,895  INFO [main] UsefulLinksPage:91 - {01=[Schedule, Go !], 02=[Video Lactures All Topics, Go !], 03=[Selenium Interview Questions, Go !], 04=[Java Interview Questions, Go !], 05=[Courses, Go !], Sr=[Content, Click]}
+2021-07-10 18:20:03,030  INFO [main] UsefulLinksPage:101 - {1=[Schedule, Go !], 2=[Video Lactures All Topics, Go !], 3=[Selenium Interview Questions, Go !], 4=[Java Interview Questions, Go !], 5=[Courses, Go !], 6=[Placement, Go !], Sr=[Content, Click]}
+2021-07-10 18:20:09,823  INFO [main] DownloadsPage:28 - [Google Chrome, 76.0]
+2021-07-10 18:20:09,948  INFO [main] DownloadsPage:28 - [Google Chrome Driver, 76.0]
+2021-07-10 18:20:10,397  INFO [main] DownloadsPage:42 - [Selenium Server Standalon Jar]
+2021-07-10 18:20:10,484  INFO [main] DownloadsPage:42 - [Selenium Server Source Jar]
+2021-07-10 18:20:10,687  INFO [main] DownloadsPage:42 - [Google Chrome Driver]
+2021-07-11 13:30:56,444  INFO [main] LoginPage:37 - Sign in to start your session
+2021-07-11 13:30:56,450  INFO [main] LoginPage:40 - Text is match
+2021-07-11 13:30:59,081  INFO [main] LoginPage:104 - heading is verified.
+2021-07-11 13:31:01,817  INFO [main] LoginPage:116 - heading1 is verified.
+2021-07-11 13:31:05,336  INFO [main] LoginPage:55 - Login verified.open dashboard page.
+2021-07-11 13:31:08,155  INFO [main] LoginPage:92 - image is displayed.
+2021-07-11 13:31:12,115  INFO [main] LoginPage:81 - Registration page is open.
+2021-07-11 13:31:14,922  INFO [main] LoginPage:68 - link text is verified
+2021-07-11 13:31:17,477  INFO [main] LoginPage:25 - ApplicationLoginTitle is match.
+2021-07-11 13:51:48,747  INFO [main] DownloadsPage:28 - [Google Chrome, 76.0]
+2021-07-11 13:51:48,827  INFO [main] DownloadsPage:28 - [Google Chrome Driver, 76.0]
+2021-07-11 13:51:49,218  INFO [main] DownloadsPage:42 - [Selenium Server Standalon Jar]
+2021-07-11 13:51:49,334  INFO [main] DownloadsPage:42 - [Selenium Server Source Jar]
+2021-07-11 13:51:49,540  INFO [main] DownloadsPage:42 - [Google Chrome Driver]
+2021-07-11 13:53:07,121  INFO [main] DashboardPage:79 - aqua
+2021-07-11 13:53:07,155  INFO [main] DashboardPage:79 - green
+2021-07-11 13:53:07,185  INFO [main] DashboardPage:79 - yellow
+2021-07-11 13:53:07,201  INFO [main] DashboardPage:79 - red
+2021-07-11 13:53:10,096  INFO [main] DashboardPage:88 - bag
+2021-07-11 13:53:10,109  INFO [main] DashboardPage:88 - bars
+2021-07-11 13:53:10,121  INFO [main] DashboardPage:88 - add
+2021-07-11 13:53:10,134  INFO [main] DashboardPage:88 - graph
+2021-07-11 13:53:13,117  INFO [main] DashboardPage:31 - DashboardPage Title is verified
+2021-07-11 13:53:16,585  INFO [main] DashboardPage:63 - [Selenium, Java / J2EE, Python, Php]
+2021-07-11 13:53:16,589  INFO [main] DashboardPage:66 - Courses are verified.
+2021-07-11 13:53:19,848  INFO [main] DashboardPage:40 - Dashboard Courses Offered
+2021-07-11 13:53:19,851  INFO [main] DashboardPage:43 - Text is matched.
+2021-07-11 14:05:36,011  INFO [main] DashboardPage:79 - aqua
+2021-07-11 14:05:36,031  INFO [main] DashboardPage:79 - green
+2021-07-11 14:05:36,057  INFO [main] DashboardPage:79 - yellow
+2021-07-11 14:05:36,073  INFO [main] DashboardPage:79 - red
+2021-07-11 14:05:39,281  INFO [main] DashboardPage:88 - bag
+2021-07-11 14:05:39,294  INFO [main] DashboardPage:88 - bars
+2021-07-11 14:05:39,305  INFO [main] DashboardPage:88 - add
+2021-07-11 14:05:39,321  INFO [main] DashboardPage:88 - graph
+2021-07-11 14:05:42,741  INFO [main] DashboardPage:31 - DashboardPage Title is verified
+2021-07-11 14:05:46,512  INFO [main] DashboardPage:63 - [Selenium, Java / J2EE, Python, Php]
+2021-07-11 14:05:46,516  INFO [main] DashboardPage:66 - Courses are verified.
+2021-07-11 14:05:49,832  INFO [main] DashboardPage:40 - Dashboard Courses Offered
+2021-07-11 14:05:49,836  INFO [main] DashboardPage:43 - Text is matched.
+2021-07-12 08:05:25,010  INFO [main] UsersPage:149 - correct mobile number is :9898989898
+2021-07-12 08:05:25,031  INFO [main] UsersPage:152 - Incorrect mobile number is :999999999
+2021-07-12 08:05:25,048  INFO [main] UsersPage:149 - correct mobile number is :1111111111
+2021-07-12 08:05:25,065  INFO [main] UsersPage:152 - Incorrect mobile number is :999999999
+2021-07-12 08:05:25,104  INFO [main] UsersPage:133 - kiran@gmail.com
+2021-07-12 08:05:25,335  INFO [main] UsersPage:56 - ---->>>{0=[Kiran, Male], 1=[Sagar, Male], 2=[Monica, Female], 3=[Kimaya, Female]}
+2021-07-12 08:05:26,180  INFO [main] UsersPage:66 - data is matched.
+2021-07-12 08:05:26,842  INFO [main] UsersPage:106 - {1=[Kiran, kiran@gmail.com, 9898989898, Java/J2EE, Male, Maharashtra, Delete], 2=[Sagar, sagar@gmail.com, 999999999, Selenium, Male, Punjab, Delete], #=[Username, Email, Mobile, Course, Gender, State, Action], 3=[Monica, monica@gmail.com, 1111111111, Python, Female, Maharashtra, Delete], 4=[Kimaya, kimaya@gmail.com, 999999999, PHP, Female, Punjab, Delete]}
+2021-07-12 08:05:29,062  INFO [main] UsersPage:117 - {1=[Kiran, kiran@gmail.com, 9898989898, Java/J2EE, Male, Maharashtra, Delete], 2=[Sagar, sagar@gmail.com, 999999999, Selenium, Male, Punjab, Delete], #=[Username, Email, Mobile, Course, Gender, State, Action], 3=[Monica, monica@gmail.com, 1111111111, Python, Female, Maharashtra, Delete], 4=[Kimaya, kimaya@gmail.com, 999999999, PHP, Female, Punjab, Delete]}
+2021-07-12 08:05:29,066  INFO [main] UsersPage:120 - Both tables are matched with eaach other.
+2021-07-12 08:05:29,115  INFO [main] UsersPage:31 - UsersPageTitle is verified.
+2021-07-12 08:05:42,623  INFO [main] AddUserPage:69 - User Added Successfully.
+2021-07-12 08:05:42,777  INFO [main] AddUserPage:26 - AddUserTitle is verified.
+2021-07-12 08:05:49,480  INFO [main] UsefulLinksPage:59 - I am in Main Window.
+2021-07-12 08:05:49,506  INFO [main] UsefulLinksPage:34 - Title is matched.
+2021-07-12 08:05:50,033  INFO [main] UsefulLinksPage:91 - {01=[Schedule, Go !], 02=[Video Lactures All Topics, Go !], 03=[Selenium Interview Questions, Go !], 04=[Java Interview Questions, Go !], 05=[Courses, Go !], Sr=[Content, Click]}
+2021-07-12 08:05:51,321  INFO [main] UsefulLinksPage:101 - {1=[Schedule, Go !], 2=[Video Lactures All Topics, Go !], 3=[Selenium Interview Questions, Go !], 4=[Java Interview Questions, Go !], 5=[Courses, Go !], 6=[Placement, Go !], Sr=[Content, Click]}
+2021-07-12 08:06:02,248  INFO [main] DownloadsPage:28 - [Google Chrome, 76.0]
+2021-07-12 08:06:02,329  INFO [main] DownloadsPage:28 - [Google Chrome Driver, 76.0]
+2021-07-12 08:06:02,750  INFO [main] DownloadsPage:42 - [Selenium Server Standalon Jar]
+2021-07-12 08:06:02,830  INFO [main] DownloadsPage:42 - [Selenium Server Source Jar]
+2021-07-12 08:06:02,968  INFO [main] DownloadsPage:42 - [Google Chrome Driver]
+2021-07-13 12:46:48,306  INFO [main] LoginPage:36 - Sign in to start your session
+2021-07-13 12:46:48,315  INFO [main] LoginPage:39 - Text is match
+2021-07-13 12:46:55,583  INFO [main] LoginPage:103 - heading is verified.
+2021-07-13 12:47:02,067  INFO [main] LoginPage:115 - heading1 is verified.
+2021-07-13 12:47:20,894  INFO [main] LoginPage:54 - Login verified.open dashboard page.
+2021-07-13 12:47:27,256  INFO [main] LoginPage:91 - image is displayed.
+2021-07-13 12:47:33,347  INFO [main] LoginPage:80 - Registration page is open.
+2021-07-13 12:47:38,781  INFO [main] LoginPage:67 - link text is verified
+2021-07-13 12:47:46,323  INFO [main] LoginPage:24 - ApplicationLoginTitle is match.
+2021-07-13 13:45:16,776  INFO [main] LoginPage:36 - Sign in to start your session
+2021-07-13 13:45:16,776  INFO [main] LoginPage:39 - Text is match
+2021-07-13 13:45:21,385  INFO [main] LoginPage:103 - heading is verified.
+2021-07-13 13:45:26,370  INFO [main] LoginPage:115 - heading1 is verified.
+2021-07-13 13:45:33,280  INFO [main] LoginPage:54 - Login verified.open dashboard page.
+2021-07-13 13:45:37,991  INFO [main] LoginPage:91 - image is displayed.
+2021-07-13 13:45:42,796  INFO [main] LoginPage:80 - Registration page is open.
+2021-07-13 13:45:47,505  INFO [main] LoginPage:67 - link text is verified
+2021-07-13 13:45:52,061  INFO [main] LoginPage:24 - ApplicationLoginTitle is match.
+2021-07-13 15:11:55,207  INFO [main] LoginPage:40 - Sign in to start your session
+2021-07-13 15:11:55,222  INFO [main] LoginPage:43 - Text is match
+2021-07-13 15:11:59,322  INFO [main] LoginPage:107 - heading is verified.
+2021-07-13 15:12:03,545  INFO [main] LoginPage:119 - heading1 is verified.
+2021-07-13 15:12:08,449  INFO [main] LoginPage:58 - Login verified.open dashboard page.
+2021-07-13 15:12:12,197  INFO [main] LoginPage:95 - image is displayed.
+2021-07-13 15:12:16,242  INFO [main] LoginPage:84 - Registration page is open.
+2021-07-13 15:12:20,251  INFO [main] LoginPage:71 - link text is verified
+2021-07-13 15:12:24,724  INFO [main] LoginPage:28 - ApplicationLoginTitle is match.
+2021-07-15 15:07:52,716  INFO [main] LoginPage:41 - Sign in to start your session
+2021-07-15 15:07:52,748  INFO [main] LoginPage:44 - Text is match
+2021-07-15 15:07:57,851  INFO [main] LoginPage:108 - heading is verified.
+2021-07-15 15:08:03,190  INFO [main] LoginPage:120 - heading1 is verified.
+2021-07-15 15:08:12,140  INFO [main] LoginPage:59 - Login verified.open dashboard page.
+2021-07-15 15:08:17,334  INFO [main] LoginPage:96 - image is displayed.
+2021-07-15 15:08:22,621  INFO [main] LoginPage:85 - Registration page is open.
+2021-07-15 15:08:28,121  INFO [main] LoginPage:72 - link text is verified
+2021-07-15 15:10:42,430  INFO [main] DashboardPage:83 - aqua
+2021-07-15 15:10:42,465  INFO [main] DashboardPage:83 - green
+2021-07-15 15:10:42,480  INFO [main] DashboardPage:83 - yellow
+2021-07-15 15:10:42,496  INFO [main] DashboardPage:83 - red
+2021-07-15 15:10:50,066  INFO [main] DashboardPage:92 - bag
+2021-07-15 15:10:50,080  INFO [main] DashboardPage:92 - bars
+2021-07-15 15:10:50,092  INFO [main] DashboardPage:92 - add
+2021-07-15 15:10:50,111  INFO [main] DashboardPage:92 - graph
+2021-07-15 15:11:06,905  INFO [main] DashboardPage:67 - [Selenium, Java / J2EE, Python, Php]
+2021-07-15 15:11:06,917  INFO [main] DashboardPage:70 - Courses are verified.
+2021-07-15 15:11:13,387  INFO [main] DashboardPage:44 - Dashboard Courses Offered
+2021-07-15 15:11:13,388  INFO [main] DashboardPage:47 - Text is matched.
+2021-07-15 15:13:05,871  INFO [main] UsefulLinksPage:59 - I am in Main Window.
+2021-07-15 15:14:03,335  INFO [main] UsefulLinksPage:59 - I am in Main Window.
+2021-07-15 15:14:03,373  INFO [main] UsefulLinksPage:34 - Title is matched.
+2021-07-15 15:14:04,289  INFO [main] UsefulLinksPage:91 - {01=[Schedule, Go !], 02=[Video Lactures All Topics, Go !], 03=[Selenium Interview Questions, Go !], 04=[Java Interview Questions, Go !], 05=[Courses, Go !], Sr=[Content, Click]}
+2021-07-15 15:14:05,414  INFO [main] UsefulLinksPage:101 - {1=[Schedule, Go !], 2=[Video Lactures All Topics, Go !], 3=[Selenium Interview Questions, Go !], 4=[Java Interview Questions, Go !], 5=[Courses, Go !], 6=[Placement, Go !], Sr=[Content, Click]}
+2021-07-15 15:14:41,166  INFO [main] OperatorsPage:66 - person Kiran Available for Urgent Technical Help
+2021-07-15 15:14:41,195  INFO [main] OperatorsPage:66 - person Neelam Available for Technical Discussion (Errors, Software, Technical Materials)
+2021-07-15 15:14:41,242  INFO [main] OperatorsPage:66 - person Darshit Available for Technical Help
+2021-07-15 15:14:41,617  INFO [main] OperatorsPage:150 - Table header is verified.
+2021-07-15 15:14:41,680  INFO [main] OperatorsPage:50 - Sorted elements: [Darshit, Kiran, Neelam, Seema, Varsha]
+2021-07-15 15:14:42,695  INFO [main] OperatorsPage:198 - Person with Enquiry Role is verified.
+2021-07-15 15:14:43,489  INFO [main] OperatorsPage:245 - The Actual HashMap With Name,Contact,Time for available
+{Neelam=[7066885937, 09:00 AM to 06:00 PM Monday-Saturday], Kiran=[9552343698, 07:00 AM to 10:00 PM Monday-Sunday], Seema=[8888558802, 09:00 AM to 06:00 PM Monday-Saturday], Varsha=[8888809416, 09:00 AM to 06:00 PM Monday to Friday and Sunday], Darshit=[8866888662, 08:30 AM to 02:00 PM Saturday-Sunday]}
+2021-07-15 15:14:44,092  INFO [main] OperatorsPage:256 - The Expected HashMap With Name,Contact,Time for available
+{Neelam=[7066885937, 09:00 AM to 06:00 PM Monday-Saturday], Kiran=[9552343698, 07:00 AM to 10:00 PM Monday-Sunday], Seema=[8888558802, 09:00 AM to 06:00 PM Monday-Saturday], Varsha=[8888809416, 09:00 AM to 06:00 PM Monday to Friday and Sunday], Darshit=[8866888662, 08:30 AM to 02:00 PM Saturday-Sunday]}
+2021-07-15 15:14:44,092  INFO [main] OperatorsPage:261 - Data is not verified.
+2021-07-15 15:14:44,239  INFO [main] OperatorsPage:33 - operatorsPageTitle is verified.
+2021-07-15 15:14:45,233  INFO [main] OperatorsPage:127 - verified persons  uses whats App only
+2021-07-15 15:14:45,701  INFO [main] OperatorsPage:171 - OperatorTableId is verified.
+2021-07-15 15:15:20,627  INFO [main] UsersPage:149 - correct mobile number is :9898989898
+2021-07-15 15:15:20,644  INFO [main] UsersPage:152 - Incorrect mobile number is :999999999
+2021-07-15 15:15:20,668  INFO [main] UsersPage:149 - correct mobile number is :1111111111
+2021-07-15 15:15:20,684  INFO [main] UsersPage:152 - Incorrect mobile number is :999999999
+2021-07-15 15:15:20,860  INFO [main] UsersPage:133 - kiran@gmail.com
+2021-07-15 15:15:21,422  INFO [main] UsersPage:56 - ---->>>{0=[Kiran, Male], 1=[Sagar, Male], 2=[Monica, Female], 3=[Kimaya, Female]}
+2021-07-15 15:15:22,067  INFO [main] UsersPage:66 - data is matched.
+2021-07-15 15:15:23,151  INFO [main] UsersPage:106 - {1=[Kiran, kiran@gmail.com, 9898989898, Java/J2EE, Male, Maharashtra, Delete], 2=[Sagar, sagar@gmail.com, 999999999, Selenium, Male, Punjab, Delete], #=[Username, Email, Mobile, Course, Gender, State, Action], 3=[Monica, monica@gmail.com, 1111111111, Python, Female, Maharashtra, Delete], 4=[Kimaya, kimaya@gmail.com, 999999999, PHP, Female, Punjab, Delete]}
+2021-07-15 15:15:24,875  INFO [main] UsersPage:117 - {1=[Kiran, kiran@gmail.com, 9898989898, Java/J2EE, Male, Maharashtra, Delete], 2=[Sagar, sagar@gmail.com, 999999999, Selenium, Male, Punjab, Delete], #=[Username, Email, Mobile, Course, Gender, State, Action], 3=[Monica, monica@gmail.com, 1111111111, Python, Female, Maharashtra, Delete], 4=[Kimaya, kimaya@gmail.com, 999999999, PHP, Female, Punjab, Delete]}
+2021-07-15 15:15:24,884  INFO [main] UsersPage:120 - Both tables are matched with eaach other.
+2021-07-15 15:15:24,900  INFO [main] UsersPage:31 - UsersPageTitle is verified.
+2021-07-15 15:47:47,482  INFO [main] UsefulLinksPage:34 - Title is matched.
+2021-07-15 22:01:10,760  INFO [main] LoginPage:41 - Sign in to start your session
+2021-07-15 22:01:10,765  INFO [main] LoginPage:44 - Text is match
+2021-07-15 22:01:13,936  INFO [main] LoginPage:108 - heading is verified.
+2021-07-15 22:01:17,099  INFO [main] LoginPage:120 - heading1 is verified.
+2021-07-15 22:01:21,347  INFO [main] LoginPage:59 - Login verified.open dashboard page.
+2021-07-15 22:01:25,080  INFO [main] LoginPage:96 - image is displayed.
+2021-07-15 22:01:28,656  INFO [main] LoginPage:85 - Registration page is open.
+2021-07-15 22:01:31,901  INFO [main] LoginPage:72 - link text is verified
+2021-07-15 22:18:53,755  INFO [main] DashboardPage:33 - DashboardPage Title is verified
+2021-07-17 09:51:10,217  INFO [main] LoginPage:27 - ApplicationLoginTitle is match.
+2021-07-17 09:52:48,378  INFO [main] LoginPage:27 - ApplicationLoginTitle is match.
+2021-07-17 14:27:03,882  INFO [main] LoginPage:27 - ApplicationLoginTitle is match.
+2021-07-18 14:45:51,814  INFO [main] DashboardPage:33 - DashboardPage Title is verified
+2021-07-18 16:01:48,740  INFO [main] DashboardPage:93 - aqua
+2021-07-18 16:01:48,769  INFO [main] DashboardPage:93 - green
+2021-07-18 16:01:48,784  INFO [main] DashboardPage:93 - yellow
+2021-07-18 16:01:48,800  INFO [main] DashboardPage:93 - red
+2021-07-18 16:03:38,076  INFO [main] DashboardPage:33 - DashboardPage Title is verified
+2021-07-18 16:04:34,068  INFO [main] DashboardPage:71 - [Selenium, Java / J2EE, Python, Php]
+2021-07-18 16:04:34,086  INFO [main] DashboardPage:75 - Courses are verified.
+2021-07-18 16:05:43,225  INFO [main] DashboardPage:45 - Dashboard Courses Offered
+2021-07-18 16:05:43,235  INFO [main] DashboardPage:48 - Text is matched.
+2021-07-18 16:09:30,216  INFO [main] DashboardPage:93 - aqua
+2021-07-18 16:09:30,259  INFO [main] DashboardPage:93 - green
+2021-07-18 16:09:30,291  INFO [main] DashboardPage:93 - yellow
+2021-07-18 16:09:30,322  INFO [main] DashboardPage:93 - red
+2021-07-18 16:14:04,264  INFO [main] DashboardPage:33 - DashboardPage Title is verified
+2021-07-18 16:14:12,514  INFO [main] DashboardPage:45 - Dashboard Courses Offered
+2021-07-18 16:14:12,518  INFO [main] DashboardPage:48 - Text is matched.
+2021-07-18 16:14:21,283  INFO [main] DashboardPage:71 - [Selenium, Java / J2EE, Python, Php]
+2021-07-18 16:14:21,299  INFO [main] DashboardPage:75 - Courses are verified.
+2021-07-18 16:14:28,521  INFO [main] DashboardPage:93 - aqua
+2021-07-18 16:14:28,536  INFO [main] DashboardPage:93 - green
+2021-07-18 16:14:28,552  INFO [main] DashboardPage:93 - yellow
+2021-07-18 16:14:28,570  INFO [main] DashboardPage:93 - red
+2021-07-18 16:19:55,188  INFO [main] DashboardPage:102 - bag
+2021-07-18 16:19:55,216  INFO [main] DashboardPage:102 - bars
+2021-07-18 16:19:55,232  INFO [main] DashboardPage:102 - add
+2021-07-18 16:19:55,248  INFO [main] DashboardPage:102 - graph

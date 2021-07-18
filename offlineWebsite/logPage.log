@@ -1,0 +1,10 @@
+2021-07-06 13:05:58,119  INFO [main] LoginPage:43 - Sign in to start your session
+2021-07-06 13:05:58,119  INFO [main] LoginPage:47 - Text is match
+2021-07-06 13:06:03,971  INFO [main] LoginPage:108 - heading is verified.
+2021-07-06 13:06:12,835  INFO [main] LoginPage:119 - heading1 is verified.
+2021-07-06 13:06:20,652  INFO [main] LoginPage:63 - Login verified.open dashboard page.
+2021-07-06 13:06:25,869  INFO [main] LoginPage:97 - image is displayed.
+2021-07-06 13:06:31,884  INFO [main] LoginPage:87 - Registration page is open.
+2021-07-06 13:06:36,282  INFO [main] LoginPage:75 - link text is verified
+2021-07-06 13:14:33,478  INFO [main] LoginPage:31 - ApplicationLoginTitle is match.
+2021-07-06 13:18:51,248  INFO [main] LoginPage:31 - ApplicationLoginTitle is match.

@@ -1,0 +1,13 @@
+2021-07-08 16:02:51,359  INFO [main] UsefulLinksPage:91 - {01=[Schedule, Go !], 02=[Video Lactures All Topics, Go !], 03=[Selenium Interview Questions, Go !], 04=[Java Interview Questions, Go !], 05=[Courses, Go !], Sr=[Content, Click]}
+2021-07-08 16:16:39,503  INFO [main] UsefulLinksPage:92 - {01=[Schedule, Go !], 02=[Video Lactures All Topics, Go !], 03=[Selenium Interview Questions, Go !], 04=[Java Interview Questions, Go !], 05=[Courses, Go !], Sr=[Content, Click]}
+2021-07-08 16:21:03,921  INFO [main] UsefulLinksPage:91 - {01=[Schedule, Go !], 02=[Video Lactures All Topics, Go !], 03=[Selenium Interview Questions, Go !], 04=[Java Interview Questions, Go !], 05=[Courses, Go !], Sr=[Content, Click]}
+2021-07-08 16:32:42,949  INFO [main] UsefulLinksPage:91 - {01=[Schedule, Go !], 02=[Video Lactures All Topics, Go !], 03=[Selenium Interview Questions, Go !], 04=[Java Interview Questions, Go !], 05=[Courses, Go !], Sr=[Content, Click]}
+2021-07-08 16:38:34,192  INFO [main] UsefulLinksPage:91 - {01=[Schedule, Go !], 02=[Video Lactures All Topics, Go !], 03=[Selenium Interview Questions, Go !], 04=[Java Interview Questions, Go !], 05=[Courses, Go !], Sr=[Content, Click]}
+2021-07-08 16:45:02,143  INFO [main] UsefulLinksPage:91 - {01=[Schedule, Go !], 02=[Video Lactures All Topics, Go !], 03=[Selenium Interview Questions, Go !], 04=[Java Interview Questions, Go !], 05=[Courses, Go !], Sr=[Content, Click]}
+2021-07-08 16:46:23,826  INFO [main] UsefulLinksPage:91 - {01=[Schedule, Go !], 02=[Video Lactures All Topics, Go !], 03=[Selenium Interview Questions, Go !], 04=[Java Interview Questions, Go !], 05=[Courses, Go !], Sr=[Content, Click]}
+2021-07-09 14:43:44,028  INFO [main] OperatorsPage:225 - Data is verified
+2021-07-09 14:48:46,441  INFO [main] DownloadsPage:28 - [Google Chrome, 76.0]
+2021-07-09 14:48:46,520  INFO [main] DownloadsPage:28 - [Google Chrome Driver, 76.0]
+2021-07-09 14:48:46,887  INFO [main] DownloadsPage:42 - [Selenium Server Standalon Jar]
+2021-07-09 14:48:47,059  INFO [main] DownloadsPage:42 - [Selenium Server Source Jar]
+2021-07-09 14:48:47,293  INFO [main] DownloadsPage:42 - [Google Chrome Driver]

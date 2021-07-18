@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="4" total="5" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9342" started-at="2021-07-18T10:49:45Z" finished-at="2021-07-18T10:49:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9342" started-at="2021-07-18T10:49:45Z" finished-at="2021-07-18T10:49:55Z">
+      <class name="com.jbk.tests.DashboardPageTest">
+        <test-method status="PASS" signature="StartReport()[pri:0, instance:com.jbk.tests.DashboardPageTest@1794d431]" name="StartReport" is-config="true" duration-ms="234" started-at="2021-07-18T16:19:45Z" finished-at="2021-07-18T16:19:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartReport -->
+        <test-method status="PASS" signature="allPages()[pri:0, instance:com.jbk.tests.DashboardPageTest@1794d431]" name="allPages" is-config="true" duration-ms="0" started-at="2021-07-18T16:19:45Z" finished-at="2021-07-18T16:19:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allPages -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.jbk.tests.DashboardPageTest@1794d431]" name="setUp" is-config="true" duration-ms="9200" started-at="2021-07-18T16:19:45Z" finished-at="2021-07-18T16:19:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="perPage()[pri:0, instance:com.jbk.tests.DashboardPageTest@1794d431]" name="perPage" is-config="true" duration-ms="0" started-at="2021-07-18T16:19:45Z" finished-at="2021-07-18T16:19:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- perPage -->
+        <test-method status="PASS" signature="verifyCourseSymbol()[pri:4, instance:com.jbk.tests.DashboardPageTest@1794d431]" name="verifyCourseSymbol" duration-ms="111" started-at="2021-07-18T16:19:55Z" finished-at="2021-07-18T16:19:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCourseSymbol -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.jbk.tests.DashboardPageTest@1794d431]" name="getResult" is-config="true" duration-ms="15" started-at="2021-07-18T16:19:55Z" finished-at="2021-07-18T16:19:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyCourseSymbol status=SUCCESS method=DashboardPageTest.verifyCourseSymbol()[pri:4, instance:com.jbk.tests.DashboardPageTest@1794d431] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:com.jbk.tests.DashboardPageTest@1794d431]" name="endReport" is-config="true" duration-ms="375" started-at="2021-07-18T16:19:55Z" finished-at="2021-07-18T16:19:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.jbk.tests.DashboardPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
